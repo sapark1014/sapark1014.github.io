@@ -3,7 +3,7 @@
     "name": "Seol Ah Park, Ph.D.",
     "label": "Postdoctoral Fellow",
     "image": "",
-    "email": "standup1014@gmail.com",
+    "email": "seol.ah.park@fjfi.cvut.cz",
     "url": "https://sapark1014.github.io",
     "summary": "Researcher with expertise in image analysis, mathematical modeling, and computational algorithms for biomedical data. Focus on developing image processing techniques and advanced methods for analyzing and integrating multidimensional data.",
     "profiles": [
@@ -18,29 +18,25 @@
     {
       "name": "Czech Technical University in Prague",
       "position": "Postdoctoral Fellow (CROP Fellowship, MSCA COFUND)",
-      "startDate": "2026-03",
-      "summary": "Online adaptive radiotherapy automation"
+      "startDate": "2026-03"
     },
     {
       "name": "Slovak University of Technology in Bratislava",
       "position": "Research Staff",
       "startDate": "2024-10",
-      "endDate": "2026-02",
-      "summary": "Topological data analysis applied to tumor-immune cell interactions and macrophage behavior analysis"
+      "endDate": "2026-02"
     },
     {
       "name": "Slovak University of Technology in Bratislava",
       "position": "Postdoctoral Researcher",
       "startDate": "2023-06",
-      "endDate": "2024-10",
-      "summary": "Biomedical image processing and computational workflows"
+      "endDate": "2024-10"
     },
     {
       "name": "EU H2020 Marie Skłodowska-Curie Project (ImageInLife, Grant ID: 721537)",
       "position": "Marie Curie Fellow (Innovative Training Networks)",
       "startDate": "2018-09",
-      "endDate": "2021-06",
-      "summary": "Segmentation-based cell tracking in microscopy videos. Secondments at CNRS Montpellier (France), CNRS Gif-sur-Yvette (France), and Leiden University (Netherlands)."
+      "endDate": "2021-06"
     }
   ],
   "education": [
@@ -99,7 +95,7 @@
     },
     {
       "name": "Research Areas",
-      "keywords": ["Biomedical Image Analysis", "Topological Data Analysis", "Mathematical Modeling", "Adaptive Radiotherapy", "Cell Tracking"]
+      "keywords": ["Biomedical Image Analysis", "High-Dimensional Data Analysis", "Mathematical and computational Modeling", "Cell Segmentation and Tracking"]
     }
   ],
   "certificates": [
@@ -113,7 +109,7 @@
       "name": "Early Stage Grant STU",
       "date": "2024",
       "issuer": "Slovak University of Technology",
-      "summary": "Individual grant (€6,000) for conference travel & research expenses. Project: Phenotypic Classification of Macrophages and Behavioral Analysis"
+      "summary": "Individual grant for conference travel & research expenses. Project: Phenotypic Classification of Macrophages and Behavioral Analysis"
     }
   ],
   "languages": [
@@ -124,10 +120,6 @@
     {
       "language": "English",
       "fluency": "Fluent"
-    },
-    {
-      "language": "Slovak",
-      "fluency": "Conversational"
     }
   ]
 }
