@@ -408,7 +408,7 @@ ninja.data = [{
           title: 'CROP Fellowship',
           description: "Online Adaptive Radiotherapy Automation (MSCA COFUND at CTU Prague)",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/Crop/";
+              window.location.href = "/projects/crop/";
             },},{id: "projects-imageinlife",
           title: 'ImageInLife',
           description: "EU H2020 Marie Skłodowska-Curie Innovative Training Networks (ITN)",
