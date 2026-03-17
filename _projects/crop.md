@@ -26,4 +26,4 @@ It builds on my expertise in biomedical image processing and computational workf
 - Conduct **proof-of-concept validation** on retrospective clinical datasets from Czech partner hospitals, benchmarking against manual planning in terms of dose quality, clinical acceptability, and runtime
 - Release the developed automation library as **open-source software** with documentation and example datasets
 - Collaborate with partner institutions including University Motol University Hospital, Medical University of Vienna, Paul Scherrer Institut (Switzerland)
-- - Leverage expertise in **biomedical image analysis** to evaluate and optimize key imaging components of the oART pipeline, including CBCT-to-planning CT registration, deep-learning auto-segmentation of organs at risk, and image quality assessment
+- Leverage expertise in **biomedical image analysis** to evaluate and optimize key imaging components of the oART pipeline, including CBCT-to-planning CT registration, deep-learning auto-segmentation of organs at risk, and image quality assessment
