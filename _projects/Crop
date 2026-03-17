@@ -1,0 +1,39 @@
+---
+layout: page
+title: CROP Fellowship
+description: Online Adaptive Radiotherapy Automation (MSCA COFUND at CTU Prague)
+img:
+importance: 1
+category: research
+---
+
+**Role:** Postdoctoral Fellow  
+**Period:** Mar 2026 – Aug 2027  
+**Host:** Czech Technical University in Prague, Czech Republic  
+**Funding:** CROP Fellowship (Marie Skłodowska-Curie COFUND Action)  
+**Supervisor:** Dr. Petra Trnková  
+
+### Overview
+
+This project develops and validates a **RayStation-native automation framework** that performs end-to-end **online adaptive radiotherapy (oART)** on conventional C-arm LINACs through a single executable script. The goal is to make adaptive radiotherapy accessible to hospitals that use standard equipment, without requiring costly dedicated adaptive platforms.
+
+### Research Objectives
+
+**RO1 – Automation Framework:** Build a Python-based orchestrator within RayStation that automates the complete oART sequence: CBCT import → registration to planning CT → dose computation → plan optimization → QA verification → plan export.
+
+**RO2 – Proof-of-Concept Validation:** Evaluate the automated workflow on representative clinical datasets from partner hospitals, targeting adaptive plan generation within approximately 20–25 minutes.
+
+### Expected Impact
+
+- **Scientific:** A fully automated, end-to-end oART workflow for conventional LINACs, promoting reproducible computational methods and open-source software practices.
+- **Economic:** Reduces the need for costly adaptive platforms, enabling hospitals to upgrade to near-real-time adaptive treatment using current infrastructure.
+- **Societal:** Improves treatment precision and patient safety, contributing to more equitable access to advanced cancer therapy.
+
+### Collaborations
+
+- University Hospital Plzeň (Czech Republic)
+- Medical University of Vienna (Austria)
+- Regional hospitals in Liberec and Chomutov (Czech Republic)
+- Paul Scherrer Institut (Switzerland, secondment)
+- Seoul National University (Republic of Korea, secondment)
+- KTH Royal Institute of Technology (Sweden, secondment)
