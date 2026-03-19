@@ -10,10 +10,10 @@ profile:
   image_circular: false
   image_width: 120px
   more_info: >
+    <p>Department of Dosimetry and Application of Ionizing Radiation</p>
     <p>Faculty of Nuclear Sciences and Physical Engineering</p>
     <p>Czech Technical University in Prague</p>
-    <p>Prague, Czech Republic</p>
-
+    
 selected_papers: true
 social: true
 
